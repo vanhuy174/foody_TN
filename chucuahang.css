@@ -1,0 +1,32 @@
+/*.dkchucuahang{
+	background-image: url('../img/anhnen1.png');
+}*/
+.fromdkchucuahang{
+	background-color: #ffff;
+}
+.container{
+	width: 50%;
+}
+.title{
+	border-bottom: 1px solid #DDDDDD;
+	color: #FF5848;
+}
+.noidung{
+	margin: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.tblthongtin tr td span{
+	color: red;
+}
+.tblthongtin tr td:first-child{
+	width: 25%;
+}
+.btnguidangky{
+	width: 100%;
+	border-style: none;
+	
+}
+.allbody{
+	background-color: #EEEEEE;
+}

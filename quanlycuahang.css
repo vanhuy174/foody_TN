@@ -1,0 +1,12 @@
+.chitietquanan{
+	position: relative;
+}
+.iconsuaanhdaidien{
+	position: absolute; 
+	bottom: 10px; 
+	right: 10px;
+}
+.iconsuaanhdaidien i{
+	font-size: 3rem; 
+	color: green;
+}
